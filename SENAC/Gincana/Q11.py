@@ -1,0 +1,1 @@
+'''11) Armazene 3 valores (A, B e C igual a 100, -1 e 37) representando as medidas dos lados de um triângulo e escrever se formam ou não um triângulo. OBS: para formar um triângulo, o valor de cada lado deve ser menor que a soma dos outros 2 lados'''
